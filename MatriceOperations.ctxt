@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MatriceOperations
+comment1.params=mat\ n\ m
+comment1.target=int\ initiator(Matrice,\ int,\ int)
+comment2.params=m\ strPrefix
+comment2.target=java.lang.String\ strMat(Matrice,\ java.lang.String)
+comment3.params=mRes\ m1\ m2
+comment3.target=boolean\ addMatrice(Matrice,\ Matrice,\ Matrice)
+comment4.params=mRes\ m1\ m2
+comment4.target=boolean\ multMatrice(Matrice,\ Matrice,\ Matrice)
+numComments=5
